@@ -38,7 +38,7 @@ Pip list and version used in the project
 ---
 
 ## 1. Face detection function
-> 이동건 developed
+> *이동건 developed*
 
 프로젝트 설명 서술
 
@@ -64,7 +64,7 @@ To execute a function, you can do it as follows
 ---
 
 ## 2. Real-time object detection in webcam images function
-> 임수연 developed
+> **임수연 developed*
 
 프로젝트 설명 서술
 
@@ -95,7 +95,7 @@ To execute a function, you can do it as follows
 ---
 
 ## 3. Real-time face detection and mosaic in webcam images function
-> 박예진 developed
+> *박예진 developed*
 
 Today, I'm going to add a mosaic effect to the faces detected in the webcam video. We will put a mosaic effect on the faces through the following procedure. 
 
@@ -125,7 +125,8 @@ To execute a function, you can do it as follows
 - Project automatically mosaic
 
 ### Result 
-사진이나 동영상 첨부
+![화면 캡처 2022-12-11 222240](https://user-images.githubusercontent.com/84014910/206912986-10b46714-30b1-4300-a3c6-9926d45cdb57.jpg)
+![화면 캡처 2022-12-11 223240](https://user-images.githubusercontent.com/84014910/206912988-a3aa27bc-2d10-4a37-a091-e68c124256e9.jpg)
 
 ---
 
