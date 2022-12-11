@@ -125,7 +125,8 @@ To execute a function, you can do it as follows
 - Project automatically mosaic
 
 ### Result 
-사진이나 동영상 첨부
+![화면 캡처 2022-12-11 222240](https://user-images.githubusercontent.com/84014910/206915894-25e3edc9-888d-494c-b963-e607d9ef4a2b.jpg)<br>
+![화면 캡처 2022-12-11 223240](https://user-images.githubusercontent.com/84014910/206915909-f4532fba-d1e8-42da-b939-6948cdc4237c.jpg)
 
 ---
 
@@ -140,10 +141,10 @@ Group 27 was operated by implementing one function for each, creating and modify
 ## License
 
 MIT
-**Free Software!**
+**Free Software!**<br>
 ![화면 캡처 2022-12-12 001048](https://user-images.githubusercontent.com/84014910/206915794-12adb77b-50e7-4edb-99dc-6ca33edc4f4e.jpg)
 
 ## Reference
--https://bskyvision.com/934
--https://bskyvision.com/675
--https://bskyvision.com/681
+-https://bskyvision.com/934<br>
+-https://bskyvision.com/675<br>
+-https://bskyvision.com/681<br>
