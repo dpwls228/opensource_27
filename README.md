@@ -55,7 +55,7 @@ To execute a function, you can do it as follows
 -It's a program that automatically recognizes and blurs the face when you bring an image.
 
 ### Result 
-
+![1670820465813](https://user-images.githubusercontent.com/84014910/207052102-8ecb7ae5-0a17-4699-8636-3c51030eee87.jpg)
 
 ---
 
@@ -121,7 +121,9 @@ To execute a function, you can do it as follows
 - Project automatically mosaic
 
 ### Result 
-사진이나 동영상 첨부
+![화면 캡처 2022-12-11 222240](https://user-images.githubusercontent.com/84014910/207052049-1071edc0-5b0c-4293-b298-9cf88406b69c.jpg)
+![화면 캡처 2022-12-11 223240](https://user-images.githubusercontent.com/84014910/207052058-8ad514d2-ac84-4325-8d2c-554822dabb48.jpg)
+
 
 ---
 
@@ -136,31 +138,12 @@ Group 27 was operated by implementing one function for each, creating and modify
 ## License
 
 MIT
-**Free Software!**
+**Free Software!**<br>
+![화면 캡처 2022-12-12 001048](https://user-images.githubusercontent.com/84014910/207051999-db06cb42-aada-417b-bd1a-15879983ec90.jpg)
 
 ## Reference
-https://bskyvision.com/934
-https://bskyvision.com/675
-https://bskyvision.com/681
+https://bskyvision.com/934<br>
+https://bskyvision.com/675<br>
+https://bskyvision.com/681<br>
 =======
-# opensource   
-import cv2   
-import maplotlib.pyplot as plt   
-import cvlib as cv   
-   
-image_path = 'v1.jpg'              //open the image      
-im cv2.imread(image_path)          //read the image   
-plt.imshow(im)   
-plt.show()   
-   
-faces, confidences = cv.detect_face(im)      //detect faces   
-   
-for face in faces:                 //loop through detected faces and bounding box   
-(startX, startY) = face[0], face[1]   
-(endX,endY) = face[2],face[3]   
-cv2.rectangle(im, (startX,startY), (endX,endY), (0,255,0), 2)   
-   
-plt.imshow(im)                     //display output   
-plt.show()   
-cv2.imwrite('result,jpg',im)       //result output   
->>>>>>> 7f1b2207b03066d08f80f2d97ce6f814bb6c9c67
+
