@@ -4,7 +4,7 @@
 |Major|ID|name|
 |------|---|---|
 |Software|201937913|박예진|
-|Software|20|이동건|
+|Software|201735857|이동건|
 |Design|20|임수연|
 
 ## _Realtime detect object project using cvlib_
@@ -41,22 +41,23 @@ Pip list and version used in the project
 > 이동건 developed
 
 프로젝트 설명 서술
+We're going to use Gangnam to create a program to censor faces after detecting faces are detected.
 
 ### Function 
 The functions used in the project are as follows
--사용된 함수1
+-im = cv2.imread(image_path)
  ```sh
-함수 : 설명
+-cv2.imread : read the image
 ```
 
--사용된 함수2
+-faces, confidences = cv.detect_face(im)
  ```sh
-함수 : 설명
+-cv.detect : detect faces
 ```
 
 ### How to execute
 To execute a function, you can do it as follows
-- 실행방법 서술해주세요
+- It's a program that automatically recognizes and blurs the face when you bring an image.
 
 ### Result 
 사진이나 동영상 첨부 해주세요 
